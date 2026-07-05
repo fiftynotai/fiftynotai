@@ -22,8 +22,6 @@ i build the whole machine: software, automations, agents, embedded. eight years 
 | [fifty-agent-sdk](https://github.com/fiftynotai/fifty-agent-sdk) | LIVE | a reusable react loop for python | pip install fifty-agent-sdk. pluggable llm, state, tools. MIT. |
 | [agumon](https://github.com/fiftynotai/agumon) | WIP | personal ai companion | brain, body, plugins. ride-or-die. |
 | [fifty_flutter_kit](https://github.com/fiftynotai/fifty_flutter_kit) | LIVE | flutter ecosystem: tokens, theme, ui | eight years of flutter, extracted. |
-| [crimson-arena](https://github.com/fiftynotai/crimson-arena) | WIP | ai engineering dashboard for igris | agents that argue. one walks out. |
-| [graph_builder](https://github.com/fiftynotai/graph_builder) | LAB | graph and node-based systems in c++ | codebase in, graph out. agents read structure, not vibes. |
 
 ## Stack
 
@@ -46,5 +44,3 @@ i build the whole machine: software, automations, agents, embedded. eight years 
 - [fifty-agent-sdk](https://github.com/fiftynotai/fifty-agent-sdk)
 - [fifty_flutter_kit](https://github.com/fiftynotai/fifty_flutter_kit)
 - [agumon](https://github.com/fiftynotai/agumon)
-- [crimson-arena](https://github.com/fiftynotai/crimson-arena)
-- [graph_builder](https://github.com/fiftynotai/graph_builder)
